@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrvRyan
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me: flowindex286@gmail.com
