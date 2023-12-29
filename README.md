@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrvRyan
-- I'm conversant with Low-Code/No-Code
+- 👨‍💻 I'm conversant with Low-Code/No-Code
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analysis
